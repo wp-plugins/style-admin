@@ -3,8 +3,8 @@ Contributors: fuzzguard
 Donate link:
 tags: style, admin, administration, CSS, custom, dashboard, login, free, Formatting
 Requires at least: 3.8
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +60,9 @@ This is caused by an old browser version.  I suggest you update your browser or 
 6. Christmas styled Admin Panel login page, using 'Style Admin' plugin.
 
 == Changelog ==
+
+= 1.1 =
+* Fixed $SA_CSS_Arr so it recognises if no variable is returned
 
 = 1.0 =
 * Gold release

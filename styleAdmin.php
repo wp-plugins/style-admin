@@ -3,7 +3,7 @@
  * Plugin Name: Style Admin
  * Plugin URI: http://www.fuzzguard.com.au/plugins/style-admin
  * Description: Used to style the admin panel without having to edit files
- * Version: 1.0
+ * Version: 1.1
  * Author: Benjamin Guy
  * Author URI: http://www.fuzzguard.com.au
  * License: GPL2
@@ -80,8 +80,10 @@ class styleAdmin {
      * Replaces the CSS in the login page to customize it
      * @since 0.1
      */
-function replace_admin_login_css() { 
+function replace_admin_login_css() {
+		$returnData = '';
 		$SA_CSS_Arr = get_option( 'style_admin_login_css');
+	if (is_array( $SA_CSS_Arr)) {
     $returnData = '<style>';
 		if (array_key_exists('BGColour', $SA_CSS_Arr) && $SA_CSS_Arr['BGColour_On'] != "D"){
 			$returnData .= 'body.login {background: none repeat scroll 0 0 '.$SA_CSS_Arr['BGColour'].' !important; }';
@@ -114,6 +116,7 @@ function replace_admin_login_css() {
 			$returnData .= 'body.login div#login form#loginform p.submit input#wp-submit {color: '.$SA_CSS_Arr['SubmitTextColour'].' !important; }';
 		}
 	$returnData .= '</style>';
+}
 
 echo $returnData;
 }
