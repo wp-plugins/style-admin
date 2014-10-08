@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 tags: style, admin, administration, CSS, custom, dashboard, login, free, Formatting
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,14 +52,20 @@ This is caused by an old browser version.  I suggest you update your browser or 
 
 == Screenshots ==
 
-1. View of the top of the 'Style Admin' options page
-2. View of the bottom of the 'Style Admin' options page
-3. Shows the Color Picker while expanded.
-4. A CUSTOM stylised Admin Panel login page, using 'Style Admin' plugin.
-5. A CUSTOM logo added to the Admin Panel menu.
-6. Christmas styled Admin Panel login page, using 'Style Admin' plugin.
+1. Upload and set Logo Image
+2. Edit Background Colours
+3. Edit Text Colours
+4. Edit Styling options
+5. A CUSTOM stylised Admin Panel login page, using 'Style Admin' plugin.
+6. A CUSTOM logo added to the Admin Panel menu.
+7. Christmas styled Admin Panel login page, using 'Style Admin' plugin.
 
 == Changelog ==
+
+= 1.2 =
+* Added in CSS styled tabs to organise display of option's
+* Modified "label" tag to include reference ID
+* Modified view to fix spacing between radio button options
 
 = 1.1 =
 * Fixed $SA_CSS_Arr so it recognises if no variable is returned
