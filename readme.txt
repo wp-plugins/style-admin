@@ -62,6 +62,11 @@ This is caused by an old browser version.  I suggest you update your browser or 
 
 == Changelog ==
 
+= 1.3 =
+* Added "lang" folder for localization files
+* Added French, German, Spanish and Chinese translations
+* Added .pot file for localization by others.  Located in "lang" folder
+
 = 1.2 =
 * Added in CSS styled tabs to organise display of option's
 * Modified "label" tag to include reference ID
