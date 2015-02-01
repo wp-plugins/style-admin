@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Style Admin v1.3\n"
+"POT-Creation-Date: 2015-01-22 03:12+1000\n"
+"PO-Revision-Date: 2015-01-22 03:57+1000\n"
+"Last-Translator: \n"
+"Language-Team: FuzzGuard <info@fuzzguard.com.au>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: /styleAdmin\n"
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:161
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:185
+msgid "settings saved."
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:196
+msgid "Style Admin Options"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:202
+msgid "Fill out the below fields to customize your Admin login page."
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:219
+msgid "Image Upload"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:220
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:259
+msgid "Background Colours"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:221
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:331
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:346
+msgid "Text Colours"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:222
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:404
+msgid "Styling Options"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:230
+msgid "Image upload"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:235
+msgid "Login page logo:  "
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:238
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:247
+msgid "Upload Image"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:239
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:248
+msgid "Enter an URL or upload an image. MAX image size: 300x80"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:244
+msgid "Admin panel menu logo:  "
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:263
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:274
+msgid "Login background colour"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:266
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:282
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:298
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:314
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:338
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:354
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:370
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:386
+msgid "Default"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:269
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:285
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:301
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:317
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:341
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:357
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:373
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:389
+msgid "Custom"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:279
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:290
+msgid "Login Box background colour"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:295
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:306
+msgid "Username/Password Box background colour"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:311
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:322
+msgid "Submit button background color"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:335
+msgid "Login footer text colour"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:351
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:362
+msgid "Login Box text colour"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:367
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:378
+msgid "Submit button text color"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:383
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:394
+msgid "Input Box text color"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:408
+msgid "Rounded corners on login box"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:410
+msgid "Yes"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:413
+msgid "No"
+msgstr ""
+
+#: C:\Temp\Poedit\projects\styleAdmin/styleAdmin.php:415
+msgid "For rounded corners to be displayed on the login box and the 'Log in' button."
+msgstr ""
