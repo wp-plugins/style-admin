@@ -3,7 +3,7 @@
  * Plugin Name: Style Admin
  * Plugin URI: http://www.fuzzguard.com.au/plugins/style-admin
  * Description: Used to style the admin panel without having to edit files
- * Version: 1.3
+ * Version: 1.3.1
  * Author: Benjamin Guy
  * Author URI: http://www.fuzzguard.com.au
  * Text Domain: style-admin
