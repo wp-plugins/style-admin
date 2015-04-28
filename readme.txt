@@ -3,8 +3,8 @@ Contributors: fuzzguard
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G8SPGAVH8RTBU
 tags: style, admin, administration, CSS, custom, dashboard, login, free, Formatting
 Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 1.3
+Tested up to: 4.2.1
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,6 +61,9 @@ This is caused by an old browser version.  I suggest you update your browser or 
 7. Christmas styled Admin Panel login page, using 'Style Admin' plugin.
 
 == Changelog ==
+
+= 1.3.1 =
+* Added Serbo-Croatian translation done by Andrijana Nikolic - http://webhostinggeeks.com/
 
 = 1.3 =
 * Added "lang" folder for localization files
